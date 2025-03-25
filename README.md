@@ -24,10 +24,10 @@ Plane Crash Analysis Project
 
 ## À propos du dataset
 
-- **Source** : [Kaggle - Plane Crash Dataset](https://www.kaggle.com/datasets/nguyenhoc/plane-crash)
-- **Fichier** : `plane_crash.csv`
-- **Période couverte** : 1908 à aujourd’hui
-- **Colonnes principales** :
+- Source : [Kaggle - Plane Crash Dataset](https://www.kaggle.com/datasets/nguyenhoc/plane-crash)
+- Fichier : `plane_crash.csv`
+- Période couverte : 1908 à aujourd’hui
+- Colonnes principales :
   - `Date` : date du crash
   - `Operator` : compagnie aérienne
   - `Location` : lieu de l'accident
@@ -38,11 +38,11 @@ Plane Crash Analysis Project
 
 ## Contenu du projet
 
-- 📌 Nettoyage des données (`data_cleaning.py`)
-- 📊 Analyse exploratoire (`eda.py`)
-- 📉 Visualisations Matplotlib / Seaborn
-- 📊 Dashboard Power BI avec filtres interactifs
-- 📄 Rapport final documentant les observations
+- Nettoyage des données (`data_cleaning.py`)
+- Analyse exploratoire (`eda.py`)
+- Visualisations Matplotlib / Seaborn
+- Dashboard Power BI avec filtres interactifs
+- Rapport final documentant les observations
 
 ---
 
