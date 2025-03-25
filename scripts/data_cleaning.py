@@ -23,5 +23,6 @@ df = df.dropna(subset=['operator', 'location', 'summary'])
 # Sauvegarde des données nettoyés
 df.to_csv("../data/plane_crash_clean.csv", index=False)
  
+# Message final 
 print("Nettoyage réussi")
 
